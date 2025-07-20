@@ -1,0 +1,4 @@
+customer_rfm_dashboard/
+├── app.py
+├── online_retail.csv  # Your dataset
+├── requirements.txt
